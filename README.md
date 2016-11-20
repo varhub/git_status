@@ -1,13 +1,12 @@
 # git_status
 
 A `git status` meaningful for big projects.
-https://github.com/varhub/git_status
 
 Provides:
   * status info of every git repository in current directory tree.
   * PS1 functionality (like __git_status) but with simplified status logic.
   * easy install. Script ensures idempotence to simplify `source <whatever>` logic.
-  * *more information at man section*
+  * *more information at man section.*
   
 ![](https://varhub.github.io/assets/images/portfolio/git_status_by_varribas.gif)
 
